@@ -1,7 +1,7 @@
 Dsa 5 binary search tree
-Name:- Jyoti Rajesh Makwan 
+Name:- Mayur Gawatre
 Sub :- dsa 
-Name:- Jyoti Rajesh Makwan
+
 Assingment no :-5
 
 #include <iostream>
